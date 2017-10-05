@@ -1,0 +1,738 @@
+,MSA,MSA_Name
+0,1018,"                  Abilene, TX Metropolitan Statistical Area
+"
+1,1038,"                  Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area
+"
+2,1042,"                  Akron, OH Metropolitan Statistical Area
+"
+3,1050,"                  Albany, GA Metropolitan Statistical Area
+"
+4,1058,"                  Albany-Schenectady-Troy, NY Metropolitan Statistical Area
+"
+5,1074,"                  Albuquerque, NM Metropolitan Statistical Area
+"
+6,1078,"                  Alexandria, LA Metropolitan Statistical Area
+"
+7,1090,"                  Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area
+"
+8,1102,"                  Altoona, PA Metropolitan Statistical Area
+"
+9,1110,"                  Amarillo, TX Metropolitan Statistical Area
+"
+10,1118,"                  Ames, IA Metropolitan Statistical Area
+"
+11,1126,"                  Anchorage, AK Metropolitan Statistical Area
+"
+12,1130,"                  Anderson, IN Metropolitan Statistical Area
+"
+13,1134,"                  Anderson, SC Metropolitan Statistical Area
+"
+14,1146,"                  Ann Arbor, MI Metropolitan Statistical Area
+"
+15,1150,"                  Anniston-Oxford, AL Metropolitan Statistical Area
+"
+16,1154,"                  Appleton, WI Metropolitan Statistical Area
+"
+17,1170,"                  Asheville, NC Metropolitan Statistical Area
+"
+18,1202,"                  Athens-Clarke County, GA Metropolitan Statistical Area
+"
+19,1206,"                  Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area
+"
+20,1210,"                  Atlantic City, NJ Metropolitan Statistical Area
+"
+21,1222,"                  Auburn-Opelika, AL Metropolitan Statistical Area
+"
+22,1226,"                  Augusta-Richmond County, GA-SC Metropolitan Statistical Area
+"
+23,1242,"                  Austin-Round Rock, TX Metropolitan Statistical Area
+"
+24,1254,"                  Bakersfield, CA Metropolitan Statistical Area
+"
+25,1258,"                  Baltimore-Towson, MD Metropolitan Statistical Area
+"
+26,1262,"                  Bangor, ME Metropolitan Statistical Area
+"
+27,1270,"                  Barnstable Town, MA Metropolitan Statistical Area
+"
+28,1294,"                  Baton Rouge, LA Metropolitan Statistical Area
+"
+29,1298,"                  Battle Creek, MI Metropolitan Statistical Area
+"
+30,1302,"                  Bay City, MI Metropolitan Statistical Area
+"
+31,1314,"                  Beaumont-Port Arthur, TX Metropolitan Statistical Area
+"
+32,1338,"                  Bellingham, WA Metropolitan Statistical Area
+"
+33,1346,"                  Bend, OR Metropolitan Statistical Area
+"
+34,1374,"                  Billings, MT Metropolitan Statistical Area
+"
+35,1378,"                  Binghamton, NY Metropolitan Statistical Area
+"
+36,1382,"                  Birmingham-Hoover, AL Metropolitan Statistical Area
+"
+37,1390,"                  Bismarck, ND Metropolitan Statistical Area
+"
+38,1398,"                  Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area
+"
+39,1402,"                  Bloomington, IN Metropolitan Statistical Area
+"
+40,1406,"                  Bloomington-Normal, IL Metropolitan Statistical Area
+"
+41,1426,"                  Boise City-Nampa, ID Metropolitan Statistical Area
+"
+42,1446,"                  Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area
+"
+43,1450,"                  Boulder, CO Metropolitan Statistical Area
+"
+44,1454,"                  Bowling Green, KY Metropolitan Statistical Area
+"
+45,1474,"                  Bremerton-Silverdale, WA Metropolitan Statistical Area
+"
+46,1486,"                  Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area
+"
+47,1518,"                  Brownsville-Harlingen, TX Metropolitan Statistical Area
+"
+48,1526,"                  Brunswick, GA Metropolitan Statistical Area
+"
+49,1538,"                  Buffalo-Niagara Falls, NY Metropolitan Statistical Area
+"
+50,1550,"                  Burlington, NC Metropolitan Statistical Area
+"
+51,1554,"                  Burlington-South Burlington, VT Metropolitan Statistical Area
+"
+52,1594,"                  Canton-Massillon, OH Metropolitan Statistical Area
+"
+53,1598,"                  Cape Coral-Fort Myers, FL Metropolitan Statistical Area
+"
+54,1618,"                  Carson City, NV Metropolitan Statistical Area
+"
+55,1622,"                  Casper, WY Metropolitan Statistical Area
+"
+56,1630,"                  Cedar Rapids, IA Metropolitan Statistical Area
+"
+57,1658,"                  Champaign-Urbana, IL Metropolitan Statistical Area
+"
+58,1662,"                  Charleston, WV Metropolitan Statistical Area
+"
+59,1670,"                  Charleston-North Charleston, SC Metropolitan Statistical Area
+"
+60,1674,"                  Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area
+"
+61,1682,"                  Charlottesville, VA Metropolitan Statistical Area
+"
+62,1686,"                  Chattanooga, TN-GA Metropolitan Statistical Area
+"
+63,1694,"                  Cheyenne, WY Metropolitan Statistical Area
+"
+64,1698,"                  Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area
+"
+65,1702,"                  Chico, CA Metropolitan Statistical Area
+"
+66,1714,"                  Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area
+"
+67,1730,"                  Clarksville, TN-KY Metropolitan Statistical Area
+"
+68,1742,"                  Cleveland, TN Metropolitan Statistical Area
+"
+69,1746,"                  Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area
+"
+70,1766,"                  Coeur d'Alene, ID Metropolitan Statistical Area
+"
+71,1778,"                  College Station-Bryan, TX Metropolitan Statistical Area
+"
+72,1782,"                  Colorado Springs, CO Metropolitan Statistical Area
+"
+73,1786,"                  Columbia, MO Metropolitan Statistical Area
+"
+74,1790,"                  Columbia, SC Metropolitan Statistical Area
+"
+75,1798,"                  Columbus, GA-AL Metropolitan Statistical Area
+"
+76,1802,"                  Columbus, IN Metropolitan Statistical Area
+"
+77,1814,"                  Columbus, OH Metropolitan Statistical Area
+"
+78,1858,"                  Corpus Christi, TX Metropolitan Statistical Area
+"
+79,1870,"                  Corvallis, OR Metropolitan Statistical Area
+"
+80,1906,"                  Cumberland, MD-WV Metropolitan Statistical Area
+"
+81,1910,"                  Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area
+"
+82,1914,"                  Dalton, GA Metropolitan Statistical Area
+"
+83,1918,"                  Danville, IL Metropolitan Statistical Area
+"
+84,1926,"                  Danville, VA Metropolitan Statistical Area
+"
+85,1934,"                  Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area
+"
+86,1938,"                  Dayton, OH Metropolitan Statistical Area
+"
+87,1946,"                  Decatur, AL Metropolitan Statistical Area
+"
+88,1950,"                  Decatur, IL Metropolitan Statistical Area
+"
+89,1966,"                  Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area
+"
+90,1974,"                  Denver-Aurora, CO Metropolitan Statistical Area
+"
+91,1978,"                  Des Moines, IA Metropolitan Statistical Area
+"
+92,1982,"                  Detroit-Warren-Livonia, MI Metropolitan Statistical Area
+"
+93,2002,"                  Dothan, AL Metropolitan Statistical Area
+"
+94,2010,"                  Dover, DE Metropolitan Statistical Area
+"
+95,2022,"                  Dubuque, IA Metropolitan Statistical Area
+"
+96,2026,"                  Duluth, MN-WI Metropolitan Statistical Area
+"
+97,2050,"                  Durham, NC Metropolitan Statistical Area
+"
+98,2074,"                  Eau Claire, WI Metropolitan Statistical Area
+"
+99,2094,"                  El Centro, CA Metropolitan Statistical Area
+"
+100,2106,"                  Elizabethtown, KY Metropolitan Statistical Area
+"
+101,2114,"                  Elkhart-Goshen, IN Metropolitan Statistical Area
+"
+102,2130,"                  Elmira, NY Metropolitan Statistical Area
+"
+103,2134,"                  El Paso, TX Metropolitan Statistical Area
+"
+104,2150,"                  Erie, PA Metropolitan Statistical Area
+"
+105,2166,"                  Eugene-Springfield, OR Metropolitan Statistical Area
+"
+106,2178,"                  Evansville, IN-KY Metropolitan Statistical Area
+"
+107,2182,"                  Fairbanks, AK Metropolitan Statistical Area
+"
+108,2194,"                  Fajardo, PR Metropolitan Statistical Area
+"
+109,2202,"                  Fargo, ND-MN Metropolitan Statistical Area
+"
+110,2214,"                  Farmington, NM Metropolitan Statistical Area
+"
+111,2218,"                  Fayetteville, NC Metropolitan Statistical Area
+"
+112,2222,"                  Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area
+"
+113,2238,"                  Flagstaff, AZ Metropolitan Statistical Area
+"
+114,2242,"                  Flint, MI Metropolitan Statistical Area
+"
+115,2250,"                  Florence, SC Metropolitan Statistical Area
+"
+116,2252,"                  Florence-Muscle Shoals, AL Metropolitan Statistical Area
+"
+117,2254,"                  Fond du Lac, WI Metropolitan Statistical Area
+"
+118,2266,"                  Fort Collins-Loveland, CO Metropolitan Statistical Area
+"
+119,2290,"                  Fort Smith, AR-OK Metropolitan Statistical Area
+"
+120,2302,"                  Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area
+"
+121,2306,"                  Fort Wayne, IN Metropolitan Statistical Area
+"
+122,2342,"                  Fresno, CA Metropolitan Statistical Area
+"
+123,2346,"                  Gadsden, AL Metropolitan Statistical Area
+"
+124,2354,"                  Gainesville, FL Metropolitan Statistical Area
+"
+125,2358,"                  Gainesville, GA Metropolitan Statistical Area
+"
+126,2402,"                  Glens Falls, NY Metropolitan Statistical Area
+"
+127,2414,"                  Goldsboro, NC Metropolitan Statistical Area
+"
+128,2422,"                  Grand Forks, ND-MN Metropolitan Statistical Area
+"
+129,2430,"                  Grand Junction, CO Metropolitan Statistical Area
+"
+130,2434,"                  Grand Rapids-Wyoming, MI Metropolitan Statistical Area
+"
+131,2450,"                  Great Falls, MT Metropolitan Statistical Area
+"
+132,2454,"                  Greeley, CO Metropolitan Statistical Area
+"
+133,2458,"                  Green Bay, WI Metropolitan Statistical Area
+"
+134,2466,"                  Greensboro-High Point, NC Metropolitan Statistical Area
+"
+135,2478,"                  Greenville, NC Metropolitan Statistical Area
+"
+136,2486,"                  Greenville, SC Metropolitan Statistical Area
+"
+137,2502,"                  Guayama, PR Metropolitan Statistical Area
+"
+138,2506,"                  Gulfport-Biloxi, MS Metropolitan Statistical Area
+"
+139,2518,"                  Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area
+"
+140,2526,"                  Hanford-Corcoran, CA Metropolitan Statistical Area
+"
+141,2542,"                  Harrisburg-Carlisle, PA Metropolitan Statistical Area
+"
+142,2550,"                  Harrisonburg, VA Metropolitan Statistical Area
+"
+143,2554,"                  Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area
+"
+144,2562,"                  Hattiesburg, MS Metropolitan Statistical Area
+"
+145,2586,"                  Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area
+"
+146,2598,"                  Hinesville-Fort Stewart, GA Metropolitan Statistical Area
+"
+147,2610,"                  Holland-Grand Haven, MI Metropolitan Statistical Area
+"
+148,2618,"                  Honolulu, HI Metropolitan Statistical Area
+"
+149,2630,"                  Hot Springs, AR Metropolitan Statistical Area
+"
+150,2638,"                  Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area
+"
+151,2642,"                  Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area
+"
+152,2658,"                  Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area
+"
+153,2662,"                  Huntsville, AL Metropolitan Statistical Area
+"
+154,2682,"                  Idaho Falls, ID Metropolitan Statistical Area
+"
+155,2690,"                  Indianapolis, IN Metropolitan Statistical Area
+"
+156,2698,"                  Iowa City, IA Metropolitan Statistical Area
+"
+157,2706,"                  Ithaca, NY Metropolitan Statistical Area
+"
+158,2710,"                  Jackson, MI Metropolitan Statistical Area
+"
+159,2714,"                  Jackson, MS Metropolitan Statistical Area
+"
+160,2718,"                  Jackson, TN Metropolitan Statistical Area
+"
+161,2726,"                  Jacksonville, FL Metropolitan Statistical Area
+"
+162,2734,"                  Jacksonville, NC Metropolitan Statistical Area
+"
+163,2750,"                  Janesville, WI Metropolitan Statistical Area
+"
+164,2762,"                  Jefferson City, MO Metropolitan Statistical Area
+"
+165,2774,"                  Johnson City, TN Metropolitan Statistical Area
+"
+166,2778,"                  Johnstown, PA Metropolitan Statistical Area
+"
+167,2786,"                  Jonesboro, AR Metropolitan Statistical Area
+"
+168,2790,"                  Joplin, MO Metropolitan Statistical Area
+"
+169,2802,"                  Kalamazoo-Portage, MI Metropolitan Statistical Area
+"
+170,2810,"                  Kankakee-Bradley, IL Metropolitan Statistical Area
+"
+171,2814,"                  Kansas City, MO-KS Metropolitan Statistical Area
+"
+172,2842,"                  Kennewick-Richland-Pasco, WA Metropolitan Statistical Area
+"
+173,2866,"                  Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area
+"
+174,2870,"                  Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area
+"
+175,2874,"                  Kingston, NY Metropolitan Statistical Area
+"
+176,2894,"                  Knoxville, TN Metropolitan Statistical Area
+"
+177,2902,"                  Kokomo, IN Metropolitan Statistical Area
+"
+178,2910,"                  La Crosse, WI-MN Metropolitan Statistical Area
+"
+179,2914,"                  Lafayette, IN Metropolitan Statistical Area
+"
+180,2918,"                  Lafayette, LA Metropolitan Statistical Area
+"
+181,2934,"                  Lake Charles, LA Metropolitan Statistical Area
+"
+182,2946,"                  Lakeland, FL Metropolitan Statistical Area
+"
+183,2954,"                  Lancaster, PA Metropolitan Statistical Area
+"
+184,2962,"                  Lansing-East Lansing, MI Metropolitan Statistical Area
+"
+185,2970,"                  Laredo, TX Metropolitan Statistical Area
+"
+186,2974,"                  Las Cruces, NM Metropolitan Statistical Area
+"
+187,2982,"                  Las Vegas-Paradise, NV Metropolitan Statistical Area
+"
+188,2994,"                  Lawrence, KS Metropolitan Statistical Area
+"
+189,3002,"                  Lawton, OK Metropolitan Statistical Area
+"
+190,3014,"                  Lebanon, PA Metropolitan Statistical Area
+"
+191,3030,"                  Lewiston, ID-WA Metropolitan Statistical Area
+"
+192,3034,"                  Lewiston-Auburn, ME Metropolitan Statistical Area
+"
+193,3046,"                  Lexington-Fayette, KY Metropolitan Statistical Area
+"
+194,3062,"                  Lima, OH Metropolitan Statistical Area
+"
+195,3070,"                  Lincoln, NE Metropolitan Statistical Area
+"
+196,3078,"                  Little Rock-North Little Rock, AR Metropolitan Statistical Area
+"
+197,3086,"                  Logan, UT-ID Metropolitan Statistical Area
+"
+198,3098,"                  Longview, TX Metropolitan Statistical Area
+"
+199,3102,"                  Longview, WA Metropolitan Statistical Area
+"
+200,3110,"                  Los Angeles-Long Beach-Santa Ana, CA Metropolitan Statistical Area
+"
+201,3114,"                  Louisville, KY-IN Metropolitan Statistical Area
+"
+202,3118,"                  Lubbock, TX Metropolitan Statistical Area
+"
+203,3134,"                  Lynchburg, VA Metropolitan Statistical Area
+"
+204,3142,"                  Macon, GA Metropolitan Statistical Area
+"
+205,3146,"                  Madera, CA Metropolitan Statistical Area
+"
+206,3154,"                  Madison, WI Metropolitan Statistical Area
+"
+207,3170,"                  Manchester-Nashua, NH Metropolitan Statistical Area
+"
+208,3190,"                  Mansfield, OH Metropolitan Statistical Area
+"
+209,3242,"                  Mayagüez, PR Metropolitan Statistical Area
+"
+210,3258,"                  McAllen-Edinburg-Pharr, TX Metropolitan Statistical Area
+"
+211,3278,"                  Medford, OR Metropolitan Statistical Area
+"
+212,3282,"                  Memphis, TN-MS-AR Metropolitan Statistical Area
+"
+213,3290,"                  Merced, CA Metropolitan Statistical Area
+"
+214,3310,"                  Miami-Fort Lauderdale-Miami Beach, FL Metropolitan Statistical Area
+"
+215,3314,"                  Michigan City-La Porte, IN Metropolitan Statistical Area
+"
+216,3326,"                  Midland, TX Metropolitan Statistical Area
+"
+217,3334,"                  Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area
+"
+218,3346,"                  Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area
+"
+219,3354,"                  Missoula, MT Metropolitan Statistical Area
+"
+220,3366,"                  Mobile, AL Metropolitan Statistical Area
+"
+221,3370,"                  Modesto, CA Metropolitan Statistical Area
+"
+222,3374,"                  Monroe, LA Metropolitan Statistical Area
+"
+223,3378,"                  Monroe, MI Metropolitan Statistical Area
+"
+224,3386,"                  Montgomery, AL Metropolitan Statistical Area
+"
+225,3406,"                  Morgantown, WV Metropolitan Statistical Area
+"
+226,3410,"                  Morristown, TN Metropolitan Statistical Area
+"
+227,3458,"                  Mount Vernon-Anacortes, WA Metropolitan Statistical Area
+"
+228,3462,"                  Muncie, IN Metropolitan Statistical Area
+"
+229,3474,"                  Muskegon-Norton Shores, MI Metropolitan Statistical Area
+"
+230,3482,"                  Myrtle Beach-Conway-North Myrtle Beach, SC Metropolitan Statistical Area
+"
+231,3490,"                  Napa, CA Metropolitan Statistical Area
+"
+232,3494,"                  Naples-Marco Island, FL Metropolitan Statistical Area
+"
+233,3498,"                  Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area
+"
+234,3530,"                  New Haven-Milford, CT Metropolitan Statistical Area
+"
+235,3538,"                  New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area
+"
+236,3562,"                  New York-Northern New Jersey-Long Island, NY-NJ-PA Metropolitan Statistical Area
+"
+237,3566,"                  Niles-Benton Harbor, MI Metropolitan Statistical Area
+"
+238,3598,"                  Norwich-New London, CT Metropolitan Statistical Area
+"
+239,3610,"                  Ocala, FL Metropolitan Statistical Area
+"
+240,3614,"                  Ocean City, NJ Metropolitan Statistical Area
+"
+241,3622,"                  Odessa, TX Metropolitan Statistical Area
+"
+242,3626,"                  Ogden-Clearfield, UT Metropolitan Statistical Area
+"
+243,3642,"                  Oklahoma City, OK Metropolitan Statistical Area
+"
+244,3650,"                  Olympia, WA Metropolitan Statistical Area
+"
+245,3654,"                  Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area
+"
+246,3674,"                  Orlando, FL Metropolitan Statistical Area
+"
+247,3678,"                  Oshkosh-Neenah, WI Metropolitan Statistical Area
+"
+248,3698,"                  Owensboro, KY Metropolitan Statistical Area
+"
+249,3710,"                  Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area
+"
+250,3734,"                  Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area
+"
+251,3746,"                  Panama City-Lynn Haven, FL Metropolitan Statistical Area
+"
+252,3762,"                  Parkersburg-Marietta, WV-OH Metropolitan Statistical Area
+"
+253,3770,"                  Pascagoula, MS Metropolitan Statistical Area
+"
+254,3786,"                  Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area
+"
+255,3790,"                  Peoria, IL Metropolitan Statistical Area
+"
+256,3798,"                  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area
+"
+257,3806,"                  Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area
+"
+258,3822,"                  Pine Bluff, AR Metropolitan Statistical Area
+"
+259,3830,"                  Pittsburgh, PA Metropolitan Statistical Area
+"
+260,3834,"                  Pittsfield, MA Metropolitan Statistical Area
+"
+261,3854,"                  Pocatello, ID Metropolitan Statistical Area
+"
+262,3866,"                  Ponce, PR Metropolitan Statistical Area
+"
+263,3886,"                  Portland-South Portland-Biddeford, ME Metropolitan Statistical Area
+"
+264,3890,"                  Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area
+"
+265,3894,"                  Port St. Lucie-Fort Pierce, FL Metropolitan Statistical Area
+"
+266,3910,"                  Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area
+"
+267,3914,"                  Prescott, AZ Metropolitan Statistical Area
+"
+268,3930,"                  Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area
+"
+269,3934,"                  Provo-Orem, UT Metropolitan Statistical Area
+"
+270,3938,"                  Pueblo, CO Metropolitan Statistical Area
+"
+271,3946,"                  Punta Gorda, FL Metropolitan Statistical Area
+"
+272,3954,"                  Racine, WI Metropolitan Statistical Area
+"
+273,3958,"                  Raleigh-Cary, NC Metropolitan Statistical Area
+"
+274,3966,"                  Rapid City, SD Metropolitan Statistical Area
+"
+275,3974,"                  Reading, PA Metropolitan Statistical Area
+"
+276,3982,"                  Redding, CA Metropolitan Statistical Area
+"
+277,3990,"                  Reno-Sparks, NV Metropolitan Statistical Area
+"
+278,4006,"                  Richmond, VA Metropolitan Statistical Area
+"
+279,4014,"                  Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area
+"
+280,4022,"                  Roanoke, VA Metropolitan Statistical Area
+"
+281,4034,"                  Rochester, MN Metropolitan Statistical Area
+"
+282,4038,"                  Rochester, NY Metropolitan Statistical Area
+"
+283,4042,"                  Rockford, IL Metropolitan Statistical Area
+"
+284,4058,"                  Rocky Mount, NC Metropolitan Statistical Area
+"
+285,4066,"                  Rome, GA Metropolitan Statistical Area
+"
+286,4090,"                  Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area
+"
+287,4098,"                  Saginaw-Saginaw Township North, MI Metropolitan Statistical Area
+"
+288,4106,"                  St. Cloud, MN Metropolitan Statistical Area
+"
+289,4110,"                  St. George, UT Metropolitan Statistical Area
+"
+290,4114,"                  St. Joseph, MO-KS Metropolitan Statistical Area
+"
+291,4118,"                  St. Louis, MO-IL Metropolitan Statistical Area
+"
+292,4142,"                  Salem, OR Metropolitan Statistical Area
+"
+293,4150,"                  Salinas, CA Metropolitan Statistical Area
+"
+294,4154,"                  Salisbury, MD Metropolitan Statistical Area
+"
+295,4162,"                  Salt Lake City, UT Metropolitan Statistical Area
+"
+296,4166,"                  San Angelo, TX Metropolitan Statistical Area
+"
+297,4170,"                  San Antonio, TX Metropolitan Statistical Area
+"
+298,4174,"                  San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area
+"
+299,4178,"                  Sandusky, OH Metropolitan Statistical Area
+"
+300,4186,"                  San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area
+"
+301,4190,"                  San Germán-Cabo Rojo, PR Metropolitan Statistical Area
+"
+302,4194,"                  San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area
+"
+303,4198,"                  San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area
+"
+304,4202,"                  San Luis Obispo-Paso Robles, CA Metropolitan Statistical Area
+"
+305,4206,"                  Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area
+"
+306,4210,"                  Santa Cruz-Watsonville, CA Metropolitan Statistical Area
+"
+307,4214,"                  Santa Fe, NM Metropolitan Statistical Area
+"
+308,4222,"                  Santa Rosa-Petaluma, CA Metropolitan Statistical Area
+"
+309,4226,"                  Sarasota-Bradenton-Venice, FL Metropolitan Statistical Area
+"
+310,4234,"                  Savannah, GA Metropolitan Statistical Area
+"
+311,4254,"                  Scranton--Wilkes-Barre, PA Metropolitan Statistical Area
+"
+312,4266,"                  Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area
+"
+313,4310,"                  Sheboygan, WI Metropolitan Statistical Area
+"
+314,4330,"                  Sherman-Denison, TX Metropolitan Statistical Area
+"
+315,4334,"                  Shreveport-Bossier City, LA Metropolitan Statistical Area
+"
+316,4358,"                  Sioux City, IA-NE-SD Metropolitan Statistical Area
+"
+317,4362,"                  Sioux Falls, SD Metropolitan Statistical Area
+"
+318,4378,"                  South Bend-Mishawaka, IN-MI Metropolitan Statistical Area
+"
+319,4390,"                  Spartanburg, SC Metropolitan Statistical Area
+"
+320,4406,"                  Spokane, WA Metropolitan Statistical Area
+"
+321,4410,"                  Springfield, IL Metropolitan Statistical Area
+"
+322,4414,"                  Springfield, MA Metropolitan Statistical Area
+"
+323,4418,"                  Springfield, MO Metropolitan Statistical Area
+"
+324,4422,"                  Springfield, OH Metropolitan Statistical Area
+"
+325,4430,"                  State College, PA Metropolitan Statistical Area
+"
+326,4470,"                  Stockton, CA Metropolitan Statistical Area
+"
+327,4494,"                  Sumter, SC Metropolitan Statistical Area
+"
+328,4506,"                  Syracuse, NY Metropolitan Statistical Area
+"
+329,4522,"                  Tallahassee, FL Metropolitan Statistical Area
+"
+330,4530,"                  Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area
+"
+331,4546,"                  Terre Haute, IN Metropolitan Statistical Area
+"
+332,4550,"                  Texarkana, TX-Texarkana, AR Metropolitan Statistical Area
+"
+333,4578,"                  Toledo, OH Metropolitan Statistical Area
+"
+334,4582,"                  Topeka, KS Metropolitan Statistical Area
+"
+335,4594,"                  Trenton-Ewing, NJ Metropolitan Statistical Area
+"
+336,4606,"                  Tucson, AZ Metropolitan Statistical Area
+"
+337,4614,"                  Tulsa, OK Metropolitan Statistical Area
+"
+338,4622,"                  Tuscaloosa, AL Metropolitan Statistical Area
+"
+339,4634,"                  Tyler, TX Metropolitan Statistical Area
+"
+340,4654,"                  Utica-Rome, NY Metropolitan Statistical Area
+"
+341,4666,"                  Valdosta, GA Metropolitan Statistical Area
+"
+342,4670,"                  Vallejo-Fairfield, CA Metropolitan Statistical Area
+"
+343,4694,"                  Vero Beach, FL Metropolitan Statistical Area
+"
+344,4702,"                  Victoria, TX Metropolitan Statistical Area
+"
+345,4722,"                  Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area
+"
+346,4726,"                  Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area
+"
+347,4730,"                  Visalia-Porterville, CA Metropolitan Statistical Area
+"
+348,4738,"                  Waco, TX Metropolitan Statistical Area
+"
+349,4758,"                  Warner Robins, GA Metropolitan Statistical Area
+"
+350,4790,"                  Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Area
+"
+351,4794,"                  Waterloo-Cedar Falls, IA Metropolitan Statistical Area
+"
+352,4814,"                  Wausau, WI Metropolitan Statistical Area
+"
+353,4826,"                  Weirton-Steubenville, WV-OH Metropolitan Statistical Area
+"
+354,4830,"                  Wenatchee, WA Metropolitan Statistical Area
+"
+355,4854,"                  Wheeling, WV-OH Metropolitan Statistical Area
+"
+356,4862,"                  Wichita, KS Metropolitan Statistical Area
+"
+357,4866,"                  Wichita Falls, TX Metropolitan Statistical Area
+"
+358,4870,"                  Williamsport, PA Metropolitan Statistical Area
+"
+359,4890,"                  Wilmington, NC Metropolitan Statistical Area
+"
+360,4902,"                  Winchester, VA-WV Metropolitan Statistical Area
+"
+361,4918,"                  Winston-Salem, NC Metropolitan Statistical Area
+"
+362,4934,"                  Worcester, MA Metropolitan Statistical Area
+"
+363,4942,"                  Yakima, WA Metropolitan Statistical Area
+"
+364,4950,"                  Yauco, PR Metropolitan Statistical Area
+"
+365,4962,"                  York-Hanover, PA Metropolitan Statistical Area
+"
+366,4966,"                  Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area
+"
+367,4970,"                  Yuba City, CA Metropolitan Statistical Area
+"
+368,4974,"                  Yuma, AZ Metropolitan Statistical Area"
